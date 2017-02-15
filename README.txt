@@ -11,7 +11,8 @@ Inspired by: http://www.instructables.com/id/CONTROLLER-for-your-robotic-arm/
 	-4x10kg servos, 2x20kg servos
 	-5V 15+A power supply to power robot arm's six servos
 	-5v 1A power supply to power potentiometers
-	-A two segments of 18 gauge wires for the main power supply ot servo shield
+	-Two segments of 18 gauge wires to power servo shield
+	-Power supply adapter and terminals
 	-A bunch of 22 gauge wires to connect everything else
 	-Soldering iron
 	-Solder
